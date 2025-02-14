@@ -2,4 +2,4 @@
 
 adding to readme from github.com
 
-adding to readme from local with user-specific clone
+adding to readme from local after pushing from a different account
